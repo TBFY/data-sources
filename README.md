@@ -10,6 +10,4 @@
 
 ## Basic Overview
 
-This ## Basic Overview
-
 This repository contains the list of data sources used in the TBFY project.
