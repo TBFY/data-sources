@@ -14,5 +14,7 @@ This repository contains the list of data sources used in the TBFY project.
 
 ## Sources
 
-* JSON data from the OpenOpps and OpenCorporates API [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3638068.svg)](https://doi.org/10.5281/zenodo.3638068)
 * [Data sources priorisation](https://github.com/TBFY/data-sources/blob/master/Data%20Sources%20-%20prioritisation.xlsx)
+* JSON data from the OpenOpps and OpenCorporates API [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3638068.svg)](https://doi.org/10.5281/zenodo.3638068)
+* RDF data from 2019 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3638169.svg)](https://doi.org/10.5281/zenodo.3638169)
+
