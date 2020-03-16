@@ -5,7 +5,7 @@
 [![](https://jitpack.io/v/TBFY/data-sources.svg)](https://jitpack.io/#TBFY/data-sources)
 [![GitHub Issues](https://img.shields.io/github/issues/TBFY/data-sources.svg)](https://github.com/TBFY/data-sources/issues)
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![DOI](https://zenodo.org/badge/237399471.svg)](https://zenodo.org/badge/latestdoi/237399471)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3712323.svg)](https://doi.org/10.5281/zenodo.3712323)
 
 
 ## Basic Overview
