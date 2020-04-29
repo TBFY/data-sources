@@ -14,6 +14,6 @@ This repository contains the list of data sources used in the TBFY project.
 
 ## Sources
 
-* [Data sources priorisation](https://github.com/TBFY/data-sources/blob/master/Data%20Sources%20-%20prioritisation.xlsx)
+* [Data sources priorisation](https://raw.githubusercontent.com/TBFY/OpenOpps-api-access/master/OpenOpps_source_list.csv)
 * Knowledge graph data dump (RDF and JSON format) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3712322.svg)](https://doi.org/10.5281/zenodo.3712322)
 
